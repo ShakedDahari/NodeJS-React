@@ -1,0 +1,158 @@
+[
+	{
+		"id": 1,
+		"name": "Supermarket A",
+		"city": "Tel Aviv",
+		"items": [
+			{
+				"id": 1,
+				"name": "Milk",
+				"regularPrice": 5,
+				"salePrice": 4
+			},
+			{
+				"id": 2,
+				"name": "Bread",
+				"regularPrice": 3,
+				"salePrice": 2
+			},
+			{
+				"id": 3,
+				"name": "Eggs",
+				"regularPrice": 7,
+				"salePrice": 6
+			},
+			{
+				"id": 4,
+				"name": "Cake",
+				"regularPrice": 10,
+				"salePrice": 8
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "Supermarket B",
+		"city": "Jerusalem",
+		"items": [
+			{
+				"id": 1,
+				"name": "Milk",
+				"regularPrice": 5,
+				"salePrice": 4
+			},
+			{
+				"id": 2,
+				"name": "Bread",
+				"regularPrice": 3,
+				"salePrice": 2
+			},
+			{
+				"id": 3,
+				"name": "Cheese",
+				"regularPrice": 10,
+				"salePrice": 8
+			}
+		]
+	},
+	{
+		"id": 3,
+		"name": "Supermarket C",
+		"city": "Haifa",
+		"items": [
+			{
+				"id": 1,
+				"name": "Milk",
+				"regularPrice": 5,
+				"salePrice": 4
+			},
+			{
+				"id": 2,
+				"name": "Bread",
+				"regularPrice": 3,
+				"salePrice": 2
+			},
+			{
+				"id": 3,
+				"name": "Butter",
+				"regularPrice": 8,
+				"salePrice": 7
+			}
+		]
+	},
+	{
+		"id": 4,
+		"name": "Supermarket D",
+		"city": "Beer Sheva",
+		"items": [
+			{
+				"id": 1,
+				"name": "Milk",
+				"regularPrice": 5,
+				"salePrice": 4
+			},
+			{
+				"id": 2,
+				"name": "Bread",
+				"regularPrice": 3,
+				"salePrice": 2
+			},
+			{
+				"id": 3,
+				"name": "Yogurt",
+				"regularPrice": 6,
+				"salePrice": 5
+			}
+		]
+	},
+	{
+		"id": 5,
+		"name": "Supermarket E",
+		"city": "Netanya",
+		"items": [
+			{
+				"id": 1,
+				"name": "Milk",
+				"regularPrice": 5,
+				"salePrice": 4
+			},
+			{
+				"id": 2,
+				"name": "Bread",
+				"regularPrice": 3,
+				"salePrice": 2
+			},
+			{
+				"id": 3,
+				"name": "Cereal",
+				"regularPrice": 12,
+				"salePrice": 10
+			}
+		]
+	},
+	{
+		"id": 6,
+		"name": "Supermarket F",
+		"city": "Ramat Gan",
+		"items": [
+			{
+				"id": 1,
+				"name": "Milk",
+				"regularPrice": 5,
+				"salePrice": 4
+			},
+			{
+				"id": 2,
+				"name": "Bread",
+				"regularPrice": 3,
+				"salePrice": 2
+			},
+			{
+				"id": 3,
+				"name": "Juice",
+				"regularPrice": 7,
+				"salePrice": 6
+			}
+		]
+	}
+]
