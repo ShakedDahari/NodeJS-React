@@ -25,6 +25,7 @@ export default function StoreContextProvider({children}){
 
     const value = {
         stores,
+        setStores
     }
 
     return(
